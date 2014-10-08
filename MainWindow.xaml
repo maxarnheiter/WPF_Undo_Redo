@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF_Undo_Redo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Undo/Redo Text Editor" Height="390" Width="750">
+
+    <Grid>
+        <TextBox x:Name="MainTextBox" HorizontalAlignment="Left" Height="320" Margin="20,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" TextChanged="OnTextChanged" Text="&lt;Enter Text Here&gt;" GotFocus="OnGotFocus"/>
+        <Button x:Name="UndoButton" Content="Undo" HorizontalAlignment="Left" Margin="260,80,0,0" VerticalAlignment="Top" Width="80" Height="60" RenderTransformOrigin="0.52,-0.412" FontSize="20" FontWeight="Bold" Click="OnUndo" IsEnabled="False"/>
+        <Button x:Name="RedoButton" Content="Redo" HorizontalAlignment="Left" Margin="260,200,0,0" VerticalAlignment="Top" Width="80" Height="60" RenderTransformOrigin="0.52,-0.412" FontSize="20" FontWeight="Bold" Click="OnRedo" IsEnabled="False"/>
+        <TextBlock x:Name="PastEventsTextBlock" HorizontalAlignment="Left" Margin="385,20,0,0" TextWrapping="Wrap" Text="Past Events: 0" VerticalAlignment="Top" Height="20" Width="110"/>
+        <TextBlock x:Name="FutureEventsTextBlock" HorizontalAlignment="Left" Margin="585,20,0,0" TextWrapping="Wrap" Text="Future Events: 0" VerticalAlignment="Top" Height="20" Width="105"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="280" Margin="386,60,0,0" VerticalAlignment="Top" Width="160" Padding="0" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Auto" CanContentScroll="True">
+            <StackPanel x:Name="PastEventsStackPanel" HorizontalAlignment="Left" Height="280" VerticalAlignment="Top" Width="140" Margin="0,0,2,0"/>
+        </ScrollViewer>
+        <ScrollViewer HorizontalAlignment="Left" Height="280" Margin="572,60,0,0" VerticalAlignment="Top" Width="160" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Auto" CanContentScroll="True">
+            <StackPanel x:Name="FutureEventsStackPanel" HorizontalAlignment="Left" Height="280" VerticalAlignment="Top" Width="140"/>
+        </ScrollViewer>
+
+    </Grid>
+
+</Window>

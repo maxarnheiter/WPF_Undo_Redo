@@ -1,0 +1,13 @@
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\bin\Debug\WPF_Undo_Redo.exe.config
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\bin\Debug\WPF_Undo_Redo.exe
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\bin\Debug\WPF_Undo_Redo.pdb
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\WPF_Undo_Redo.csprojResolveAssemblyReference.cache
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\MainWindow.baml
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\MainWindow.g.cs
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\App.g.cs
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\WPF_Undo_Redo_MarkupCompile.cache
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\WPF_Undo_Redo.g.resources
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\WPF_Undo_Redo.Properties.Resources.resources
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\WPF_Undo_Redo.csproj.GenerateResource.Cache
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\WPF_Undo_Redo.exe
+X:\Dropbox\Content_encrypted\Projects\C# Learning\Learning Projects\Project 2 - WPF_Undo_Redo [In-Progress]\WPF_Undo_Redo\WPF_Undo_Redo\obj\Debug\WPF_Undo_Redo.pdb
